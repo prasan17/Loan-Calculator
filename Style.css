@@ -1,0 +1,24 @@
+.Dollarcss
+{
+border-radius: 4px 0px 0px 4px;
+background-color: #f4f4f4;
+width: auto;
+min-width: 30px;
+color: #112369;
+padding-top: 6px;
+font-weight: bold;
+}
+.textcolor
+{
+color: #4f4f4f;
+font-size: 13px;
+padding: 10px;
+}
+#Loader,#results
+{
+display: none;
+}
+.btn
+{
+cursor: pointer;
+}
